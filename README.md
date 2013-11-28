@@ -24,7 +24,7 @@ If not the whole thing then its chorus/refrain.
 * **Drive By** - Train
 * **Holiday/Boulevard of Broken Dreams** - Green Day
 * **If I Were A Boy** - Beyoncé
-* **In This River** - Black Label 
+* **In This River** - Black Label Society
 * **It's My Life** - Bon Jovi
 * **Jack Sparrow** - The Lonely Island, Michael Bolton
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
