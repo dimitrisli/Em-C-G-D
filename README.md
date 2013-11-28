@@ -18,7 +18,7 @@ If not the whole thing then its chorus/refrain.
 
 
 ## Songs
-* The Spark - Afrojack ft. Dpree Wilson
+* The Spark - Afrojack ft. Spree Wilson
 
 ## Instrumental Songs
 * River Flows In You - Yiruma
