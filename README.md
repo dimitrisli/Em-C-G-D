@@ -41,6 +41,7 @@ If not the whole thing then its chorus/refrain.
 * [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - **The Bridge Of Khazad Dum** (towards the end -> 4:40) by Lord Of The Rings Soundtrack
 
 ## Anime / Soundtracks
+* [Attack on Titan](http://en.wikipedia.org/wiki/Attack_on_Titan) Opening theme - **Jiyuu no Tsubasa** by Linked Horizon
 * [Hellsing](http://en.wikipedia.org/wiki/Hellsing) Credits - **Shine** by Mr. Big
 * [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Opening theme - **Daybreak's Bell** by L'Arc-en-Ciel
 * [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Credits - **Friends** by Stephanie
