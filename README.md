@@ -20,6 +20,9 @@ If not the whole thing then its chorus/refrain.
 ## Songs
 * The Spark - Afrojack ft. Dpree Wilson
 
+## Instrumental Songs
+* River Flows In You - Yiruma
+
 ## Stand-up
 * Canvas Bags - Tim Minchin
 
