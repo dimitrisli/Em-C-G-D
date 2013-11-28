@@ -18,6 +18,7 @@ If not the whole thing then its chorus/refrain.
 
 
 ## Songs
+* **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **The Spark** - Afrojack ft. Spree Wilson
 
 ## Instrumental Songs
