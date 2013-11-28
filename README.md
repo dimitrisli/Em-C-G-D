@@ -5,7 +5,7 @@ Songs, Movie themes, Trailers, Soundtracks, Instrumental Songs, Covers, Videos, 
 Because it clicks every time we hear it and then we want to play/sing it ourselves.
 
 ## Key
-If you play along, given the key, you'll might have to move it up/down like say Bm-G-D-A or just use a guitar capo.
+If you play along, given the key, you'll might have to move it up/down like say Bm-G-D-A or just use a guitar capo to preserve the pattern.
 
 ## Why Em-C-G-D
 These are non-barre guitar chords and probably the first chords you learn in piano.
