@@ -1,5 +1,5 @@
 ## What
-Songs, Movie themes, Trailers, Soundtracks, Instrumental Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that can be played in this chord progression.
+Songs, Movie themes, Trailers, Soundtracks, Instrumental/Acoustic/Unplugged Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that can be played in this chord progression.
 
 ## Why
 Because it clicks every time we hear it and then we want to play/sing it ourselves.
@@ -22,6 +22,9 @@ If not the whole thing then its chorus/refrain.
 
 ## Instrumental Songs
 * **River Flows In You** - Yiruma
+
+## Acoustic / Unplugged Songs
+* **Apologize** - Pixie Lott covers One Republic's Apologize
 
 ## Stand-up
 * **Canvas Bags** - Tim Minchin
