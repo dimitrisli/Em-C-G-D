@@ -18,6 +18,9 @@ If not the whole thing then its chorus/refrain.
 ## Songs
 * The Spark - Afrojack ft. Dpree Wilson
 
+## Stand-up
+* Canvas Bags - Tim Minchin
+
 ## Trailers
 * [Mandela - Long Walk to Freedom UK Teaser Trailer](http://www.youtube.com/watch?v=R5Az3bOwrz8)
 
