@@ -18,14 +18,34 @@ If not the whole thing then its chorus/refrain.
 
 
 ## Songs
+* **21 Guns** - Green Day
+* **Burn** - Ellie Goulding
+* **DONTTRUSTME** - 3OH!3
+* **Drive By** - Train
+* **Holiday/Boulevard of Broken Dreams** - Green Day
+* **If I Were A Boy** - Beyoncé
+* **In This River** - Black Label 
+* **It's My Life** - Bon Jovi
+* **Jack Sparrow** - The Lonely Island, Michael Bolton
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
+* **Never Gonna Leave This Bed** - Maroon 5
+* **Numb** - Linkin Park
+* **Parachute** - Cheryl Cole
+* **Poker Face** - Lady Gaga
+* **Skyscraper** - Demi Lovato
 * **The Spark** - Afrojack ft. Spree Wilson
+* **U + Ur Hand** - Pink
+* **Waka Waka (This Time for Africa)** - Shakira ft. Freshlyground
+* **Wake Me Up - Radio Edit** - Avicii
+* **With Or Without You** - U2
+* **Where The Green Grass Grows** - Tim McGraw
 
 ## Instrumental Songs
 * **River Flows In You** - Yiruma
 
 ## Acoustic / Unplugged Songs
 * **Apologize** - Pixie Lott covers One Republic's Apologize
+* **Nobody's Perfect - Acoustic Version** - Jessie J
 
 ## Stand-up
 * **Canvas Bags** - Tim Minchin
