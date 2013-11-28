@@ -18,13 +18,13 @@ If not the whole thing then its chorus/refrain.
 
 
 ## Songs
-* The Spark - Afrojack ft. Spree Wilson
+* **The Spark** - Afrojack ft. Spree Wilson
 
 ## Instrumental Songs
-* River Flows In You - Yiruma
+* **River Flows In You** - Yiruma
 
 ## Stand-up
-* Canvas Bags - Tim Minchin
+* **Canvas Bags** - Tim Minchin
 
 ## Ads
 * [Sky Christmas 2013](http://www.youtube.com/watch?v=r4TkSg8F2do)
@@ -34,4 +34,4 @@ If not the whole thing then its chorus/refrain.
 
 ## Movies / Soundtracks
 * [Charlie St. Cloud](http://en.wikipedia.org/wiki/Charlie_St._Cloud_(film\)) Credits - **Pull My Heart Away** by Jack Peñate
-* [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - **The Bridge Of Khazad Dum** (4:40) by Lord Of The Rings Soundtrack
+* [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - **The Bridge Of Khazad Dum** (towards the end -> 4:40) by Lord Of The Rings Soundtrack
