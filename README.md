@@ -1,5 +1,5 @@
 ## What
-Songs, Movie themes, Trailers, Soundtracks, Instrumental/Acoustic/Unplugged Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that can be played in this chord progression.
+Songs, Movie themes, Trailers, Soundtracks, Anime themes, Instrumental/Acoustic/Unplugged Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that can be played in this chord progression.
 
 ## Why
 Because it clicks every time we hear it and then we want to play/sing it ourselves.
@@ -39,3 +39,6 @@ If not the whole thing then its chorus/refrain.
 ## Movies / Soundtracks
 * [Charlie St. Cloud](http://en.wikipedia.org/wiki/Charlie_St._Cloud_(film\)) Credits - **Pull My Heart Away** by Jack Peñate
 * [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - **The Bridge Of Khazad Dum** (towards the end -> 4:40) by Lord Of The Rings Soundtrack
+
+## Anime / Soundtracks
+* [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Credits - **Friends** by Stephanie
