@@ -22,5 +22,5 @@ If not the whole thing then its chorus/refrain.
 * [Mandela - Long Walk to Freedom UK Teaser Trailer](http://www.youtube.com/watch?v=R5Az3bOwrz8)
 
 ## Movies / Soundtracks
-* [Charlie St. Cloud](http://en.wikipedia.org/wiki/Charlie_St._Cloud_(film)) Credits - "Pull My Heart Away" by Jack Peñate
-* [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - "The Bridge Of Khazad Dum" (4:40) by Lord Of The Rings Soundtrack
+* [Charlie St. Cloud](http://en.wikipedia.org/wiki/Charlie_St._Cloud_(film\)) Credits - **Pull My Heart Away** by Jack Peñate
+* [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - **The Bridge Of Khazad Dum** (4:40) by Lord Of The Rings Soundtrack
