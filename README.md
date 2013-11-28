@@ -13,7 +13,9 @@ These are non-barre guitar chords and probably the first chords you learn in pia
 ## Which Part
 If not the whole thing then its chorus/refrain.
 
+
 ***
+
 
 ## Songs
 * The Spark - Afrojack ft. Dpree Wilson
