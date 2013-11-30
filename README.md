@@ -32,6 +32,7 @@ If not the whole thing then its chorus/refrain.
 * **Numb** - Linkin Park
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
+* **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
 * **The Spark** - Afrojack ft. Spree Wilson
 * **U + Ur Hand** - Pink
