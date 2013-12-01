@@ -27,6 +27,7 @@ If not the whole thing then its chorus/refrain.
 * **DONTTRUSTME** - 3OH!3
 * **Drive By** - Train
 * **Falling In And Out Of Love** - Armin Van Buuren ft. Sharon Den Adel
+* **Fuck Her Gently** - Tenacious D
 * **Holiday/Boulevard of Broken Dreams** - Green Day
 * **Hurt** - Johnny Cash
 * **If I Were A Boy** - Beyoncé
