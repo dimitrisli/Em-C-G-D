@@ -30,6 +30,7 @@ If not the whole thing then its chorus/refrain.
 * **Fuck Her Gently** - Tenacious D
 * **Holiday/Boulevard of Broken Dreams** - Green Day
 * **Hurt** - Johnny Cash
+* **I'm Yours** - Jason Mraz
 * **If I Were A Boy** - Beyoncé
 * **In This River** - Black Label Society
 * **It's My Life** - Bon Jovi
