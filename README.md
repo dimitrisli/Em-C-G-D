@@ -1,5 +1,5 @@
 ## What
-Songs, Movie themes, Trailers, Soundtracks, Anime themes, Game themes, Instrumental/Acoustic/Unplugged Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that can be played in this chord progression.
+Songs, Movie themes, Trailers, Soundtracks, Anime themes, Game themes, Instrumental/Acoustic/Unplugged Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that has been produced based on this chord progression.
 
 ## Why
 Because it clicks every time we hear it and then we want to play/sing it ourselves.
