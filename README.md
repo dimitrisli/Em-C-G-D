@@ -37,6 +37,7 @@ If not the whole thing then its chorus/refrain.
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
 * **The Spark** - Afrojack ft. Spree Wilson
+* **The Wicker Man** - Iron Man
 * **U + Ur Hand** - Pink
 * **Waka Waka (This Time for Africa)** - Shakira ft. Freshlyground
 * **Wake Me Up - Radio Edit** - Avicii
