@@ -34,6 +34,7 @@ If not the whole thing then its chorus/refrain.
 * **In This River** - Black Label Society
 * **It's My Life** - Bon Jovi
 * **Jack Sparrow** - The Lonely Island, Michael Bolton
+* **Kids** - MGMT
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **Ma Cherié** - Dj Antoine ft. The Beat Shakers
 * **Never Gonna Leave This Bed** - Maroon 5
