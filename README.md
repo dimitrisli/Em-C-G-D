@@ -44,7 +44,7 @@ If not the whole thing then its chorus/refrain.
 * **Self Esteem** - The Offspring
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
-* **Summer of Love - Video Edit** - Cascada 
+* **Summer of Love - Video Edit** - Cascada
 * **The Spark** - Afrojack ft. Spree Wilson
 * **The Wicker Man** - Iron Maiden
 * **Torn** - Natalie Imbruglia
@@ -62,6 +62,7 @@ If not the whole thing then its chorus/refrain.
 
 ## Acoustic / Unplugged Songs
 * **Apologize** - Pixie Lott covers One Republic's Apologize
+* **Superman (It's Not Easy) - Accoustic Version** - Five For Fighting
 * **Nobody's Perfect - Acoustic Version** - Jessie J
 
 ## Stand-up
