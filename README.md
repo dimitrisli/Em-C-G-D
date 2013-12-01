@@ -41,6 +41,7 @@ If not the whole thing then its chorus/refrain.
 * **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
+* **Self Esteem** - The Offspring
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
 * **Summer of Love - Video Edit** - Cascada 
