@@ -24,6 +24,7 @@ If not the whole thing then its chorus/refrain.
 * **Arlandria** - Foo Fighters
 * **Be Free - Radio Edit** - Dj Eddy-N
 * **Burn** - Ellie Goulding
+* **Don't Stop Believin'** - Journey
 * **DONTTRUSTME** - 3OH!3
 * **Drive By** - Train
 * **Falling In And Out Of Love** - Armin Van Buuren ft. Sharon Den Adel
