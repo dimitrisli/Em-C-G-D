@@ -57,6 +57,7 @@ If not the whole thing then its chorus/refrain.
 * **With Or Without You** - U2
 * **Written In The Stars - feat. Eric Turner** - Tinie Tempah
 * **Where The Green Grass Grows** - Tim McGraw
+* **Wherever You Will Go** - The Calling
 * **You're Gonna Go Far, Kid - Explicit Album Version** - The Offspring
 
 ## Instrumental Songs
