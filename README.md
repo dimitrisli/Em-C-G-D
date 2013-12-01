@@ -23,6 +23,7 @@ If not the whole thing then its chorus/refrain.
 * **DONTTRUSTME** - 3OH!3
 * **Drive By** - Train
 * **Holiday/Boulevard of Broken Dreams** - Green Day
+* **Hurt** - Johnny Cash
 * **If I Were A Boy** - Beyoncé
 * **In This River** - Black Label Society
 * **It's My Life** - Bon Jovi
