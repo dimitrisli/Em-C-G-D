@@ -46,7 +46,8 @@ If not the whole thing then its chorus/refrain.
 * **Skyscraper** - Demi Lovato
 * **Summer of Love - Video Edit** - Cascada 
 * **The Spark** - Afrojack ft. Spree Wilson
-* **The Wicker Man** - Iron Man
+* **The Wicker Man** - Iron Maiden
+* **Torn** - Natalie Imbruglia
 * **U + Ur Hand** - Pink
 * **Waka Waka (This Time for Africa)** - Shakira ft. Freshlyground
 * **Wake Me Up - Radio Edit** - Avicii
