@@ -50,6 +50,7 @@ If not the whole thing then its chorus/refrain.
 * **Waka Waka (This Time for Africa)** - Shakira ft. Freshlyground
 * **Wake Me Up - Radio Edit** - Avicii
 * **With Or Without You** - U2
+* **Written In The Stars - feat. Eric Turner** - Tinie Tempah
 * **Where The Green Grass Grows** - Tim McGraw
 
 ## Instrumental Songs
