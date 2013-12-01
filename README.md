@@ -1,5 +1,5 @@
 ## What
-Songs, Movie themes, Trailers, Soundtracks, Anime themes, Instrumental/Acoustic/Unplugged Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that can be played in this chord progression.
+Songs, Movie themes, Trailers, Soundtracks, Anime themes, Game themes, Instrumental/Acoustic/Unplugged Songs, Covers, Videos, Ad clips, Stand-up Comedy or anything else that can be played in this chord progression.
 
 ## Why
 Because it clicks every time we hear it and then we want to play/sing it ourselves.
@@ -71,3 +71,6 @@ If not the whole thing then its chorus/refrain.
 * [Hellsing](http://en.wikipedia.org/wiki/Hellsing) Credits - **Shine** by Mr. Big
 * [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Opening theme - **Daybreak's Bell** by L'Arc-en-Ciel
 * [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Credits - **Friends** by Stephanie
+
+## Games
+* [Metal Gear Solid 2: Sons of Liberty](http://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty) main theme - **Metal Gear Solid Main Theme** by Harry Gregson-Williams
