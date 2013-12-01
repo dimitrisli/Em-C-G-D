@@ -33,6 +33,7 @@ If not the whole thing then its chorus/refrain.
 * **It's My Life** - Bon Jovi
 * **Jack Sparrow** - The Lonely Island, Michael Bolton
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
+* **Ma Cherié** - Dj Antoine ft. The Beat Shakers
 * **Never Gonna Leave This Bed** - Maroon 5
 * **Numb** - Linkin Park
 * **Otherside** - Red Hot Chili Peppers
