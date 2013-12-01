@@ -42,10 +42,12 @@ If not the whole thing then its chorus/refrain.
 * **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
+* **Save Tonight** - Eagle-Eye Cherry
 * **Self Esteem** - The Offspring
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
 * **Summer of Love - Video Edit** - Cascada
+* **Take On Me** - a-ha
 * **The Spark** - Afrojack ft. Spree Wilson
 * **The Wicker Man** - Iron Maiden
 * **Torn** - Natalie Imbruglia
