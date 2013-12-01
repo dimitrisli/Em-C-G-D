@@ -41,6 +41,7 @@ If not the whole thing then its chorus/refrain.
 * **Poker Face** - Lady Gaga
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
+* **Summer of Love - Video Edit** - Cascada 
 * **The Spark** - Afrojack ft. Spree Wilson
 * **The Wicker Man** - Iron Man
 * **U + Ur Hand** - Pink
