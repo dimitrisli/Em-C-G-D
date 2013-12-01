@@ -31,6 +31,7 @@ If not the whole thing then its chorus/refrain.
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **Never Gonna Leave This Bed** - Maroon 5
 * **Numb** - Linkin Park
+* **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
 * **Shackler's Revenge** - Guns N' Roses
