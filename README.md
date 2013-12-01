@@ -52,6 +52,7 @@ If not the whole thing then its chorus/refrain.
 * **Where The Green Grass Grows** - Tim McGraw
 
 ## Instrumental Songs
+* **A Moment In The Life** - Dax Johnson
 * **River Flows In You** - Yiruma
 
 ## Acoustic / Unplugged Songs
