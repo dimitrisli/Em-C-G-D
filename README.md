@@ -20,6 +20,7 @@ If not the whole thing then its chorus/refrain.
 ## Songs
 * **21 Guns** - Green Day
 * **Arlandria** - Foo Fighters
+* **Be Free - Radio Edit** - Dj Eddy-N
 * **Burn** - Ellie Goulding
 * **DONTTRUSTME** - 3OH!3
 * **Drive By** - Train
