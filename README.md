@@ -81,6 +81,7 @@ If not the whole thing then its chorus/refrain.
 * [Mandela - Long Walk to Freedom UK Teaser Trailer](http://www.youtube.com/watch?v=R5Az3bOwrz8)
 
 ## Movies / Soundtracks
+* [Battle:Los Angeles](http://en.wikipedia.org/wiki/Battle:_Los_Angeles) - **We Are Still Here** (2:25) by Bryan Tyler
 * [Charlie St. Cloud](http://en.wikipedia.org/wiki/Charlie_St._Cloud_(film\)) Credits - **Pull My Heart Away** by Jack Peñate
 * [Kick-Ass](http://en.wikipedia.org/wiki/Kick-Ass_(film\)) - Hit Girl Drives Home by John Murphy
 * [Kick-Ass](http://en.wikipedia.org/wiki/Kick-Ass_(film\)) - Strobe (Adagio in D Minor) by John Murphy
