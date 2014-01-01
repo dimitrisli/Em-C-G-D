@@ -44,6 +44,7 @@ If not the whole thing then its chorus/refrain.
 * **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
+* **Pour Mieux S'unir** - AuDen
 * **Save Tonight** - Eagle-Eye Cherry
 * **Self Esteem** - The Offspring
 * **Shackler's Revenge** - Guns N' Roses
