@@ -40,6 +40,7 @@ If not the whole thing then its chorus/refrain.
 * **Kids** - MGMT
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **Ma Cherié** - Dj Antoine ft. The Beat Shakers
+* **May It Be** - Enya
 * **Never Gonna Leave This Bed** - Maroon 5
 * **Numb** - Linkin Park
 * **Otherside** - Red Hot Chili Peppers
