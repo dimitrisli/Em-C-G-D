@@ -29,6 +29,7 @@ If not the whole thing then its chorus/refrain.
 * **Drive By** - Train
 * **Falling In And Out Of Love** - Armin Van Buuren ft. Sharon Den Adel
 * **Fuck Her Gently** - Tenacious D
+* **Hall Of Fame** - The Script
 * **Holiday/Boulevard of Broken Dreams** - Green Day
 * **Hurt** - Johnny Cash
 * **I'm Yours** - Jason Mraz
