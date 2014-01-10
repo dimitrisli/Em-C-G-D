@@ -38,6 +38,7 @@ If not the whole thing then its chorus/refrain.
 * **It's My Life** - Bon Jovi
 * **Jack Sparrow** - The Lonely Island, Michael Bolton
 * **Kids** - MGMT
+* **Les Amours Mortes** - AuDen
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **Ma Cherié** - Dj Antoine ft. The Beat Shakers
 * **May It Be** - Enya
