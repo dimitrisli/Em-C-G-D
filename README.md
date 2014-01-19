@@ -49,6 +49,7 @@ If not the whole thing then its chorus/refrain.
 * **Poker Face** - Lady Gaga
 * **Pour Mieux S'unir** - AuDen
 * **Save Tonight** - Eagle-Eye Cherry
+* **Say Something** - A Great Big World & Christina Aguilera
 * **Self Esteem** - The Offspring
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
