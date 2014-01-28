@@ -99,6 +99,7 @@ If not the whole thing then its chorus/refrain.
 ## Anime / Soundtracks
 * [Attack on Titan](http://en.wikipedia.org/wiki/Attack_on_Titan) Opening theme - **Jiyuu no Tsubasa** by Linked Horizon
 * [Hellsing](http://en.wikipedia.org/wiki/Hellsing) Credits - **Shine** by Mr. Big
+* [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Opening theme - **Ash Like Snow** by The Brilliant Green
 * [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Opening theme - **Daybreak's Bell** by L'Arc-en-Ciel
 * [Mobile Suit Gundam 00](http://en.wikipedia.org/wiki/Mobile_Suit_Gundam_00) Credits - **Friends** by Stephanie
 
