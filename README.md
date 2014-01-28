@@ -90,6 +90,9 @@ If not the whole thing then its chorus/refrain.
 ## Movies / Soundtracks
 * [Battle:Los Angeles](http://en.wikipedia.org/wiki/Battle:_Los_Angeles) - **We Are Still Here** (2:25) by Bryan Tyler
 * [Charlie St. Cloud](http://en.wikipedia.org/wiki/Charlie_St._Cloud_(film\)) Credits - **Pull My Heart Away** by Jack Peñate
+* [In Time](http://en.wikipedia.org/wiki/In_Time) - **Mother's Run** by Craig Armstrong
+* [In Time](http://en.wikipedia.org/wiki/In_Time) - **There's Still Time** by Craig Armstrong
+* [In Time](http://en.wikipedia.org/wiki/In_Time) - **Waking Up In Time** by Craig Armstrong
 * [Kick-Ass](http://en.wikipedia.org/wiki/Kick-Ass_(film\)) - **Hit Girl Drives Home** by John Murphy
 * [Kick-Ass](http://en.wikipedia.org/wiki/Kick-Ass_(film\)) - **Strobe (Adagio in D Minor)** by John Murphy
 * [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - **The Bridge Of Khazad Dum** (towards the end -> 4:40) by Lord Of The Rings Soundtrack
