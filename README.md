@@ -19,7 +19,6 @@ If not the whole thing then its chorus/refrain.
 
 ## Songs
 * **21 Guns** - Green Day
-* **A Great Big World** - Say Something
 * **Africa** - Toto
 * **Alone** - Heart
 * **Arlandria** - Foo Fighters
