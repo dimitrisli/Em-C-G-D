@@ -19,6 +19,7 @@ If not the whole thing then its chorus/refrain.
 
 ## Songs
 * **21 Guns** - Green Day
+* **A Great Big World** - Say Something
 * **Africa** - Toto
 * **Alone** - Heart
 * **Arlandria** - Foo Fighters
@@ -66,6 +67,7 @@ If not the whole thing then its chorus/refrain.
 * **Written In The Stars - feat. Eric Turner** - Tinie Tempah
 * **Where The Green Grass Grows** - Tim McGraw
 * **Wherever You Will Go** - The Calling
+* **Wrecking Ball** - Miley Cyrus
 * **You're Gonna Go Far, Kid - Explicit Album Version** - The Offspring
 
 ## Instrumental Songs
