@@ -21,6 +21,7 @@ If not the whole thing then its chorus/refrain.
 * **21 Guns** - Green Day
 * **Africa** - Toto
 * **Alone** - Heart
+* **And We Danced (feat. Ziggy Stardust)** - Macklemore
 * **Arlandria** - Foo Fighters
 * **Be Free - Radio Edit** - Dj Eddy-N
 * **Burn** - Ellie Goulding
