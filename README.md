@@ -56,6 +56,7 @@ If not the whole thing then its chorus/refrain.
 * **Skyscraper** - Demi Lovato
 * **Summer of Love - Video Edit** - Cascada
 * **Take On Me** - a-ha
+* **The Scientist** - Coldplay
 * **The Spark** - Afrojack ft. Spree Wilson
 * **The Wicker Man** - Iron Maiden
 * **Torn** - Natalie Imbruglia
