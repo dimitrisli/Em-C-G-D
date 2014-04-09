@@ -40,6 +40,7 @@ If not the whole thing then its chorus/refrain.
 * **Jack Sparrow** - The Lonely Island, Michael Bolton
 * **Kids** - MGMT
 * **Les Amours Mortes** - AuDen
+* **Let It Go** - Idina Menzel
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **Ma Cherié** - Dj Antoine ft. The Beat Shakers
 * **May It Be** - Enya
