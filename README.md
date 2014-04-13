@@ -46,6 +46,7 @@ If not the whole thing then its chorus/refrain.
 * **May It Be** - Enya
 * **Never Gonna Leave This Bed** - Maroon 5
 * **Numb** - Linkin Park
+* **On The Floor** - Jennifer Lopez ft. Pitbull
 * **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
@@ -103,6 +104,9 @@ If not the whole thing then its chorus/refrain.
 * [Lord of The Rings-The Fellowship of The Ring](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring) - **The Bridge Of Khazad Dum** (towards the end -> 4:40) by Lord Of The Rings Soundtrack
 * [Max Payne](http://en.wikipedia.org/wiki/Max_Payne_\(film\)) - **Heaven to the Max** by Marco Beltrami and Buck Sanders
 * [The Nativity Story](http://en.wikipedia.org/wiki/The_Nativity_Story) - **A Star Shall Come Forth** (2:13) by Mychael Danna
+
+## Animated Movies
+* [Frozen](http://en.wikipedia.org/wiki/Frozen_(2013_film)) - **Let It Go** - Idina Menzel
 
 ## Anime / Soundtracks
 * [Attack on Titan](http://en.wikipedia.org/wiki/Attack_on_Titan) Opening theme - **Jiyuu no Tsubasa** by Linked Horizon
