@@ -20,6 +20,7 @@ If not the whole thing then its chorus/refrain.
 ## Songs
 * **21 Guns** - Green Day
 * **Africa** - Toto
+* **All of Me** - John Legend
 * **Alone** - Heart
 * **And We Danced (feat. Ziggy Stardust)** - Macklemore
 * **Arlandria** - Foo Fighters
