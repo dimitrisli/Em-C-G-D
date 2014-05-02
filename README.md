@@ -65,6 +65,7 @@ If not the whole thing then its chorus/refrain.
 * **Torn** - Natalie Imbruglia
 * **Trumpets** - Chris Brown
 * **U + Ur Hand** - Pink
+* **Upstanding Youth** - B.R.S
 * **Waka Waka (This Time for Africa)** - Shakira ft. Freshlyground
 * **Wake Me Up - Radio Edit** - Avicii
 * **With Or Without You** - U2
