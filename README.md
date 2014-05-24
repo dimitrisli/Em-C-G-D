@@ -52,6 +52,7 @@ If not the whole thing then its chorus/refrain.
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
 * **Pour Mieux S'unir** - AuDen
+* **San Francisco (Be Sure to Wear Flowers In your Hair)** - Scott McKenzie
 * **Save Tonight** - Eagle-Eye Cherry
 * **Say Something** - A Great Big World & Christina Aguilera
 * **Self Esteem** - The Offspring
