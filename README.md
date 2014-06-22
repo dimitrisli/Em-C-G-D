@@ -60,6 +60,7 @@ If not the whole thing then its chorus/refrain.
 * **Self Esteem** - The Offspring
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
+* **Snow (Hey oh)** - Red Hot Chili Peppers
 * **Summer of Love - Video Edit** - Cascada
 * **Take On Me** - a-ha
 * **The Scientist** - Coldplay
