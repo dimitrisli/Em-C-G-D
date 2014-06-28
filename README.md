@@ -25,6 +25,7 @@ If not the whole thing then its chorus/refrain.
 * **Alone** - Heart
 * **And We Danced (feat. Ziggy Stardust)** - Macklemore
 * **Arlandria** - Foo Fighters
+* **Bad (feat. Vassy) - Radio Edit** - David Guetta
 * **Be Free - Radio Edit** - Dj Eddy-N
 * **Burn** - Ellie Goulding
 * **Don't Stop Believin'** - Journey
