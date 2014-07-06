@@ -27,6 +27,7 @@ If not the whole thing then its chorus/refrain.
 * **Arlandria** - Foo Fighters
 * **Bad (feat. Vassy) - Radio Edit** - David Guetta
 * **Be Free - Radio Edit** - Dj Eddy-N
+* **Bright Lights - Radio Edit** - Syn Cole
 * **Burn** - Ellie Goulding
 * **Don't Stop Believin'** - Journey
 * **DONTTRUSTME** - 3OH!3
