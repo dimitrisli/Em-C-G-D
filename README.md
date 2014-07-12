@@ -33,10 +33,13 @@ If not the whole thing then its chorus/refrain.
 * **Don't Stop Believin'** - Journey
 * **DONTTRUSTME** - 3OH!3
 * **Drive By** - Train
+* **Eenie Meenie** - Sean Kingston ft. Justin Bieber
+* **E.T** - Katy Perry ft. Kanye West
 * **Eurodancer** - Dj Mangoo
 * **Falling In And Out Of Love** - Armin Van Buuren ft. Sharon Den Adel
 * **Forgotten - Ambient Mix** - Ciaran McAuley, Roly, Oonagh
 * **Fuck Her Gently** - Tenacious D
+* **Granade** - Bruno Mars
 * **Hall Of Fame** - The Script
 * **Holiday/Boulevard of Broken Dreams** - Green Day
 * **Hurt** - Johnny Cash
@@ -45,17 +48,22 @@ If not the whole thing then its chorus/refrain.
 * **In This River** - Black Label Society
 * **It's My Life** - Bon Jovi
 * **Jack Sparrow** - The Lonely Island, Michael Bolton
+* **Just a Dream** - Nelly
 * **Kids** - MGMT
 * **Let It Go** - Idina Menzel
+* **Listen to your Heart** - DHT
+* **Love Life** - John Mamann ft. Kika
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **Ma Cherié** - Dj Antoine ft. The Beat Shakers
 * **May It Be** - Enya
 * **Never Gonna Leave This Bed** - Maroon 5
+* **Nine Crimes** - Damien Rice
 * **Numb** - Linkin Park
 * **On The Floor** - Jennifer Lopez ft. Pitbull
 * **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
+* **Replay** - Iyaz
 * **San Francisco (Be Sure to Wear Flowers In your Hair)** - Scott McKenzie
 * **Save Tonight** - Eagle-Eye Cherry
 * **Say Something** - A Great Big World & Christina Aguilera
@@ -63,13 +71,16 @@ If not the whole thing then its chorus/refrain.
 * **Shackler's Revenge** - Guns N' Roses
 * **Skyscraper** - Demi Lovato
 * **Snow (Hey oh)** - Red Hot Chili Peppers
+* **Still Loving You** - Scorpions
 * **Summer of Love - Video Edit** - Cascada
 * **Take On Me** - a-ha
 * **The Scientist** - Coldplay
 * **The Spark** - Afrojack ft. Spree Wilson
 * **The Wicker Man** - Iron Maiden
 * **This Ain't A Scene, It's An Arms Race** - Fall Out Boy
+* **This is the Life** - Amy MacDonald
 * **Torn** - Natalie Imbruglia
+* **Travel the World** - Superbus
 * **Trumpets** - Chris Brown
 * **U + Ur Hand** - Pink
 * **Until It's Gone** - Linkin Park
@@ -81,11 +92,13 @@ If not the whole thing then its chorus/refrain.
 * **Wherever You Will Go** - The Calling
 * **Wrecking Ball** - Miley Cyrus
 * **You're Gonna Go Far, Kid - Explicit Album Version** - The Offspring
+* **Zombie** - The Cranberries
 
 ## Songs (French)
 * **Aicha** - Cheb Khaled
 * **J'ai pas Vingt Ans** - Alizée
 * **Les Amours Mortes** - AuDen
+* **Love Life** - John Mamann ft. Kika
 * **Pour Mieux S'unir** - AuDen
 
 ## Songs (Greek)
