@@ -89,6 +89,9 @@ If not the whole thing then its chorus/refrain.
 ## Songs (Spanish)
 * **Bailango** - Enrique Iglesias ft. Descemer Bueno
 
+## Songs (Portuguese)
+* **Ai Se Eu Te Pego** - Michel Teló
+
 ## Instrumental Songs
 * **A Moment In The Life** - Dax Johnson
 * **Dietro Casa** - Ludovico Einaudi
