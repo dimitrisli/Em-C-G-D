@@ -28,6 +28,7 @@ If not the whole thing then its chorus/refrain.
 * **Bad (feat. Vassy) - Radio Edit** - David Guetta
 * **Bailango (English)** - Enrique Iglesias ft. Descemer Bueno
 * **Be Free - Radio Edit** - Dj Eddy-N
+* **B.R.S** - Upstanding Youth
 * **Bright Lights - Radio Edit** - Syn Cole
 * **Burn** - Ellie Goulding
 * **Don't Stop Believin'** - Journey
@@ -71,7 +72,6 @@ If not the whole thing then its chorus/refrain.
 * **Trumpets** - Chris Brown
 * **U + Ur Hand** - Pink
 * **Until It's Gone** - Linkin Park
-* **Upstanding Youth** - B.R.S
 * **Waka Waka (This Time for Africa)** - Shakira ft. Freshlyground
 * **Wake Me Up - Radio Edit** - Avicii
 * **With Or Without You** - U2
