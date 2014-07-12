@@ -17,7 +17,7 @@ If not the whole thing then its chorus/refrain.
 ***
 
 
-## Songs
+## Songs (English)
 * **21 Guns** - Green Day
 * **Africa** - Toto
 * **Aicha** - Cheb Khaled
@@ -26,7 +26,7 @@ If not the whole thing then its chorus/refrain.
 * **And We Danced (feat. Ziggy Stardust)** - Macklemore
 * **Arlandria** - Foo Fighters
 * **Bad (feat. Vassy) - Radio Edit** - David Guetta
-* **Bailango** - Enrique Iglesias ft. Descemer Bueno
+* **Bailango (English)** - Enrique Iglesias ft. Descemer Bueno
 * **Be Free - Radio Edit** - Dj Eddy-N
 * **Bright Lights - Radio Edit** - Syn Cole
 * **Burn** - Ellie Goulding
@@ -45,7 +45,6 @@ If not the whole thing then its chorus/refrain.
 * **It's My Life** - Bon Jovi
 * **Jack Sparrow** - The Lonely Island, Michael Bolton
 * **Kids** - MGMT
-* **Les Amours Mortes** - AuDen
 * **Let It Go** - Idina Menzel
 * **Love The Way You Lie (Part II)** - Rihanna ft. Eminem
 * **Ma Cherié** - Dj Antoine ft. The Beat Shakers
@@ -56,7 +55,6 @@ If not the whole thing then its chorus/refrain.
 * **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
-* **Pour Mieux S'unir** - AuDen
 * **San Francisco (Be Sure to Wear Flowers In your Hair)** - Scott McKenzie
 * **Save Tonight** - Eagle-Eye Cherry
 * **Say Something** - A Great Big World & Christina Aguilera
@@ -82,6 +80,13 @@ If not the whole thing then its chorus/refrain.
 * **Wherever You Will Go** - The Calling
 * **Wrecking Ball** - Miley Cyrus
 * **You're Gonna Go Far, Kid - Explicit Album Version** - The Offspring
+
+## Songs (French)
+* **Les Amours Mortes** - AuDen
+* **Pour Mieux S'unir** - AuDen
+
+## Songs (Spanish)
+* **Bailango** - Enrique Iglesias ft. Descemer Bueno
 
 ## Instrumental Songs
 * **A Moment In The Life** - Dax Johnson
