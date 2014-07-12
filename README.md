@@ -68,6 +68,7 @@ If not the whole thing then its chorus/refrain.
 * **The Scientist** - Coldplay
 * **The Spark** - Afrojack ft. Spree Wilson
 * **The Wicker Man** - Iron Maiden
+* **This Ain't A Scene, It's An Arms Race** - Fall Out Boy
 * **Torn** - Natalie Imbruglia
 * **Trumpets** - Chris Brown
 * **U + Ur Hand** - Pink
