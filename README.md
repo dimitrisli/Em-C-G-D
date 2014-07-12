@@ -20,7 +20,6 @@ If not the whole thing then its chorus/refrain.
 ## Songs (English)
 * **21 Guns** - Green Day
 * **Africa** - Toto
-* **Aicha** - Cheb Khaled
 * **All of Me** - John Legend
 * **Alone** - Heart
 * **And We Danced (feat. Ziggy Stardust)** - Macklemore
@@ -83,6 +82,7 @@ If not the whole thing then its chorus/refrain.
 * **You're Gonna Go Far, Kid - Explicit Album Version** - The Offspring
 
 ## Songs (French)
+* **Aicha** - Cheb Khaled
 * **Les Amours Mortes** - AuDen
 * **Pour Mieux S'unir** - AuDen
 
