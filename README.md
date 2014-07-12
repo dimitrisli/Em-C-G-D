@@ -86,6 +86,11 @@ If not the whole thing then its chorus/refrain.
 * **Les Amours Mortes** - AuDen
 * **Pour Mieux S'unir** - AuDen
 
+## Songs (Greek)
+* **Ki Emeina Edw** - Babis Stokas
+* **Mia Mera tha 'rtheis** - Onirama
+* **Oi Fovoi tou Prigkipa** - Onirama
+
 ## Songs (Spanish)
 * **Bailango** - Enrique Iglesias ft. Descemer Bueno
 
