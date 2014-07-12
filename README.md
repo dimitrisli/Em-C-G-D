@@ -26,6 +26,7 @@ If not the whole thing then its chorus/refrain.
 * **And We Danced (feat. Ziggy Stardust)** - Macklemore
 * **Arlandria** - Foo Fighters
 * **Bad (feat. Vassy) - Radio Edit** - David Guetta
+* **Bailango** - Enrique Iglesias ft. Descemer Bueno
 * **Be Free - Radio Edit** - Dj Eddy-N
 * **Bright Lights - Radio Edit** - Syn Cole
 * **Burn** - Ellie Goulding
