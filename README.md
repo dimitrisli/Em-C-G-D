@@ -95,11 +95,20 @@ If not the whole thing then its chorus/refrain.
 * **Zombie** - The Cranberries
 
 ## Songs (French)
+* **4 mots sur un Piano** - Christine Ricol
 * **Aicha** - Cheb Khaled
+* **Ca fait mal** - Christophe Mae
+* **Comme Elle Vient** - Noir Desir
+* **Derniere Danse** - Kyo
+* **Elle m'a dit** - Cali
+* **Femme Liberee** - Etienne Drapeau
 * **J'ai pas Vingt Ans** - Alizée
 * **Les Amours Mortes** - AuDen
 * **Love Life** - John Mamann ft. Kika
+* **Personne** - Pascal Obispo
 * **Pour Mieux S'unir** - AuDen
+* **Une Seule Vie (Marcher Dans Le Sable) - Version Radio** - De Palmas 
+* **Yalla** - Calogero
 
 ## Songs (Greek)
 * **Ki Emeina Edw** - Babis Stokas
