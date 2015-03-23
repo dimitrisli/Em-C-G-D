@@ -14,7 +14,7 @@ These are non-barre guitar chords and probably the first chords you learn in pia
 If not the whole thing then its chorus/refrain.
 
 ## Wikipedia Contribution
-I've contributed most of the findings below to [Wikipedia](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression)
+I've contributed most of the song findings below to the  [Wikipedia list of songs](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression)
 
 ***
 
