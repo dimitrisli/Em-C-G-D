@@ -13,6 +13,8 @@ These are non-barre guitar chords and probably the first chords you learn in pia
 ## Which Part
 If not the whole thing then its chorus/refrain.
 
+## Wikipedia Contribution
+I've contributed most of the findings below to [Wikipedia](https://en.wikipedia.org/wiki/List_of_songs_containing_the_I–V–vi–IV_progression)
 
 ***
 
