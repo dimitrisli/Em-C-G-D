@@ -43,6 +43,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **Fuck Her Gently** - Tenacious D
 * **Granade** - Bruno Mars
 * **Hall Of Fame** - The Script
+* **Hello** - Adele
 * **Here for You** - Gordon City - Bing Players Remix
 * **Holiday/Boulevard of Broken Dreams** - Green Day
 * **Hurt** - Johnny Cash
