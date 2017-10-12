@@ -124,6 +124,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 
 ## Songs (Spanish)
 * **Bailango** - Enrique Iglesias ft. Descemer Bueno
+* **Despacito** - Luis Fonsi (feat. Daddy Yankee)
 
 ## Songs (Portuguese)
 * **Ai Se Eu Te Pego** - Michel Teló
