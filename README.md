@@ -83,6 +83,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **Summer of Love - Video Edit** - Cascada
 * **Take On Me** - a-ha
 * **The Ocean (feat. Shy Martin)** - Mike Perry
+* **The Ocean** - cover by J.Fla
 * **The Scientist** - Coldplay
 * **The Spark** - Afrojack ft. Spree Wilson
 * **The Spectre** - Alan Walker
