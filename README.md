@@ -23,6 +23,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **21 Guns** - Green Day
 * **Africa** - Toto
 * **All of Me** - John Legend
+* **Alone** - Alan Walker
 * **Alone** - Heart
 * **And We Danced (feat. Ziggy Stardust)** - Macklemore
 * **Arlandria** - Foo Fighters
@@ -39,6 +40,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **E.T** - Katy Perry ft. Kanye West
 * **Eurodancer** - Dj Mangoo
 * **Falling In And Out Of Love** - Armin Van Buuren ft. Sharon Den Adel
+* **Force** - Alan Walker
 * **Forgotten - Ambient Mix** - Ciaran McAuley, Roly, Oonagh
 * **Fuck Her Gently** - Tenacious D
 * **Granade** - Bruno Mars
@@ -81,6 +83,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **Take On Me** - a-ha
 * **The Scientist** - Coldplay
 * **The Spark** - Afrojack ft. Spree Wilson
+* **The Spectre** - Alan Walker
 * **The Wicker Man** - Iron Maiden
 * **This Ain't A Scene, It's An Arms Race** - Fall Out Boy
 * **This is the Life** - Amy MacDonald
