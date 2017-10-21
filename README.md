@@ -43,7 +43,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **Faded** - Alan Walker
 * **Force** - Alan Walker
 * **Forgotten - Ambient Mix** - Ciaran McAuley, Roly, Oonagh
-* **Fuck Her Gently** - Tenacious D
+* **F**k Her Gently** - Tenacious D
 * **Granade** - Bruno Mars
 * **Hall Of Fame** - The Script
 * **Hello** - Adele
