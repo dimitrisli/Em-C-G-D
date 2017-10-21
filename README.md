@@ -40,6 +40,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **E.T** - Katy Perry ft. Kanye West
 * **Eurodancer** - Dj Mangoo
 * **Falling In And Out Of Love** - Armin Van Buuren ft. Sharon Den Adel
+* **Faded** - Alan Walker
 * **Force** - Alan Walker
 * **Forgotten - Ambient Mix** - Ciaran McAuley, Roly, Oonagh
 * **Fuck Her Gently** - Tenacious D
