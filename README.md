@@ -143,6 +143,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 
 ## Acoustic / Unplugged Songs
 * **Apologize** - Pixie Lott covers One Republic's Apologize
+* **Jack Sparrow (Ballad)** - Michael Bolton
 * **Superman (It's Not Easy) - Accoustic Version** - Five For Fighting
 * **Nobody's Perfect - Acoustic Version** - Jessie J
 
