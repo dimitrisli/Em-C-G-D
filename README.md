@@ -67,7 +67,7 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 * **Nine Crimes** - Damien Rice
 * **Numb** - Linkin Park
 * **On The Floor** - Jennifer Lopez ft. Pitbull
-* **On More Light** - Linkin Park
+* **One More Light** - Linkin Park
 * **Otherside** - Red Hot Chili Peppers
 * **Parachute** - Cheryl Cole
 * **Poker Face** - Lady Gaga
