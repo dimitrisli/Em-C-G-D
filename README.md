@@ -138,8 +138,10 @@ I've contributed most of the song findings below to the  [Wikipedia list of song
 
 ## Instrumental Songs
 * **A Moment In The Life** - Dax Johnson
+* **I giorni** - Ludovico Einaudi
 * **Dietro Casa** - Ludovico Einaudi
 * **River Flows In You** - Yiruma
+* **The Earth Prelude** - Ludovico Einaudi
 * **Nuvole Bianche** - Ludovico Einaudi
 
 ## Acoustic / Unplugged Songs
